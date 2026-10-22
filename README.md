@@ -81,4 +81,4 @@ python churn_model_final.py # trains models, saves charts to images/
 
 ## Author
 
-[Your name] | [LinkedIn] | [Email]
+ALIZHAN   | [alizhan1809@gmail.com]
