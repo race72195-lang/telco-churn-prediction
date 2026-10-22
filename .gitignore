@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor
+.vscode/
+
+# Dataset is downloaded from Kaggle, not stored in the repo
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+# Old script versions
+archive/
